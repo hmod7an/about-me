@@ -1,55 +1,27 @@
-# 👋 Hi, I'm Hamdi Alnaqeeb
+<h1 align="center">Hi 👋, I'm Hamdi Alnaqeeb</h1>
+<h3 align="center">💼 Software Engineer | Information Technology ٍSystem</h3>
 
-## 💼 Software Engineer | Embedded Systems Enthusiast | Tech Entrepreneur
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmod7an&label=Profile%20views&color=0e75b6&style=flat" alt="hmod7an" /> </p>
 
-🔧 Founder of **Dunya Al Anzima - WSiT**  
-🎯 Building smart control systems, managing tech projects, and leading agile software teams.  
-🧠 Background in Software Engineering | Cybersecurity | Embedded Systems | Arduino & PLC  
-📍 Based in Riyadh, Saudi Arabia 🇸🇦 | Currently working on ECMO pump control unit ⚙️
+- 🌱 I’m currently learning **Web development**
 
----
+- 💬 Ask me about **security systems, programming lang,data algorthims**
 
-## 🔥 Skills & Tech Stack
+- 📫 How to reach me **hmdyalnaqeep7@gmail.com**
 
-- 💻 **Languages:** C++, Python, C, JavaScript, HTML/CSS  
-- 🧱 **Frameworks/Tech:** React.js, Tkinter, Node.js  
-- 📦 **Embedded:** Arduino, STM32, PLC (Ladder Logic)  
-- 🔐 **Cybersecurity:** Penetration Testing, Secure Software Development  
-- 🧠 **Algorithms & DSA:** Recursion, Divide & Conquer, Dynamic Programming  
-- ☁️ **Tools:** GitHub, Docker, Figma, VS Code, Postman  
-- 📊 **DB & ORM:** MySQL, SQLite, Prisma (in progress)
+- ⚡ Fun fact **I think I'm funny**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/hamdi7an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamdi7an" height="30" width="40" /></a>
+<a href="https://instagram.com/hamdi7an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamdi7an" height="30" width="40" /></a>
+</p>
 
-## 🧪 Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🔬 ECMO Smart Pump Controller
-> Designing a real-time embedded system for medical use, featuring touch interface, high-speed microcontroller, and safety-critical logic.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmod7an&show_icons=true&locale=en&layout=compact" alt="hmod7an" /></p>
 
-### 🔒 Secure Web Portal
-> Built a secure full-stack app using React + Node.js with encryption, access control, and OWASP mitigations.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmod7an&show_icons=true&locale=en" alt="hmod7an" /></p>
 
-### 🤖 Robolabs Training Projects
-> Worked on automation using Arduino + sensors. Implemented smart irrigation and door control systems.
-
----
-
-## 📚 Currently Learning
-
-- Advanced cybersecurity testing  
-- Web security (OWASP, XSS, CSRF, etc.)  
-- Turkish 🇹🇷  
-- ORM & API design
-
----
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- 🧑‍💻 [GitHub](https://github.com/YOUR_USERNAME)
-- 🌐 Portfolio: [https://yourwebsite.com](https://yourwebsite.com)  
-- 📫 Email: `youremail@domain.com`
-
----
-
-_“Building systems that matter, solving real problems with smart code.”_
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmod7an&" alt="hmod7an" /></p>
